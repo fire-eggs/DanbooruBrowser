@@ -1,8 +1,9 @@
-A fork of earlnuclear's version: play with WPF, Danbooru, REST APIs, HTML/JSON parsing.
+All activity has shifted to earlnuclear's repository. Except issues, which I'm logging here.
 
-- deal with a corrupt image scenario
-- fix buglets
-- fix spelling, code cleanup
+So head off to there if you want to get the latest.
+
+
+A fork of earlnuclear's version: play with WPF, Danbooru, REST APIs, HTML/JSON parsing.
 
 The 'Executable' folder contains a copy of the program and support DLLs. You will need
 .NET 4.5 installed to be able to run it.
